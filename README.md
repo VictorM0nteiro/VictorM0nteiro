@@ -4,7 +4,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-monteiro-227911272/)
 [![linkedin](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me) virto_strk
 
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=VictorM0nteiro&theme=dracula&hide_border=false)<br/>
 
 ### technologies I most frequently use 👨‍💻
 
