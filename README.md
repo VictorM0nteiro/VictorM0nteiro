@@ -15,7 +15,7 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div><br/>
 
-  <img src="https://tryhackme-badges.s3.amazonaws.com/virtostrk.png" alt="Your Image Badge" />
+  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorM0nteiro&layout=donut)](https://github.com/VictorM0nteiro/github-readme-stats)
 
