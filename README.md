@@ -2,9 +2,9 @@
 
 # Victor Monteiro
 
-**Security Engineer, Data Engineer & Information Systems Student**
+**Security Engineer | Data Engineer | Information Systems Student**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=500&lines=Building+intelligent+data+solutions;Python+%7C+SQL+%7C+AI+Integration;Always+learning%2C+always+growing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Security+%7C+Blue+Team+%7C+DevSecOps;Building+intelligent+data+solutions;Python+%7C+SQL+%7C+AI+Integration;Always+learning%2C+always+growing)](https://git.io/typing-svg)
 
 [![Instagram](https://img.shields.io/badge/-@victorhugomonteiro77-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/victorhugomonteiro77/)
 [![LinkedIn](https://img.shields.io/badge/-Victor_Monteiro-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-monteiro-227911272/)
@@ -20,15 +20,15 @@
 ```python
 class VictorMonteiro:
     def __init__(self):
-        self.role = "Data Engineer"
+        self.role = ["Security Engineer", "Data Engineer"]
         self.education = "Information Systems @ UFU"
         self.location = "Uberlândia, MG 🇧🇷"
         
     def current_focus(self):
         return [
-            "Security BlueTeam and DevSecOps"
+            "Security Blue Team and DevSecOps",
             "Building AI-powered analytics systems",
-            "Financial data processing",
+            "Financial data processing & BI dashboards",
             "Database optimization & ETL pipelines"
         ]
     
@@ -36,7 +36,7 @@ class VictorMonteiro:
         return "I turn raw data into actionable insights ✨"
 ```
 
-Currently pursuing my degree in **Information Systems** at **Universidade Federal de Uberlândia (UFU)**, focusing on data engineering and security engineering, business intelligence, and AI integration for enterprise solutions.
+Currently pursuing my degree in **Information Systems** at **Universidade Federal de Uberlândia (UFU)**, focusing on security engineering, data engineering, business intelligence, and AI integration for enterprise solutions.
 
 ---
 
@@ -49,6 +49,7 @@ Currently pursuing my degree in **Information Systems** at **Universidade Federa
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 **Databases & Data**
 
@@ -61,8 +62,86 @@ Currently pursuing my degree in **Information Systems** at **Universidade Federa
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
+
+---
+
+## 🔐 Security & Blue Team Focus
+
+<div align="center">
+
+| Area | Skills |
+|:----:|:-------|
+| 🛡️ **SOC Operations** | Alert triage, incident analysis, event correlation |
+| 📊 **Log Analysis** | SIEM fundamentals, log parsing, detection engineering |
+| 🔍 **Vulnerability Assessment** | Scanning, threat modeling, risk analysis |
+| 🌐 **Network Security** | TCP/IP, DNS, HTTP/S, traffic analysis |
+| 🔑 **IAM** | Identity and Access Management fundamentals |
+| 🐧 **Hardening** | Linux secure configuration, audit checklists |
+
+</div>
+
+---
+
+## 🧪 Security Tools & Frameworks
+
+<div align="center">
+
+**Blue Team / SOC**
+
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![YARA](https://img.shields.io/badge/YARA-FF0000?style=for-the-badge&logo=virustotal&logoColor=white)
+
+**Network & Infrastructure**
+
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-FF0000?style=for-the-badge&logo=snort&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+
+</div>
+
+---
+
+## 🧠 Hands-on Security Practice
+
+```
+✅ TryHackMe — Blue Team & SOC paths
+✅ Incident response simulation labs
+✅ Network traffic inspection challenges
+✅ Log analysis and detection exercises
+✅ Vulnerability analysis and reporting
+```
+
+---
+
+## 🔐 Security Projects
+
+| Project | Description |
+|:--------|:------------|
+| 🔍 **Log Analysis Tool** | Python-based detection of brute-force and suspicious authentication patterns |
+| 📊 **SIEM-style Dashboard** | Security metrics visualization using Python & PostgreSQL |
+| 🐧 **Linux Hardening Guide** | Secure baseline configuration and audit checklist scripts |
+| 🗺️ **MITRE ATT&CK Mapping** | Attack techniques, detection strategies and mitigations documentation |
+
+---
+
+## 📚 Security Studies & Certifications
+
+<div align="center">
+
+![Google](https://img.shields.io/badge/Google_Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet_FCF-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+
+</div>
+
+- 🎓 **Google Cybersecurity Certificate** *(in progress)*
+- 🏅 **Fortinet Certified Fundamentals (FCF)**
+- 📘 **Blue Team & SOC** — continuous studies via TryHackMe
 
 ---
 
@@ -114,6 +193,6 @@ Currently pursuing my degree in **Information Systems** at **Universidade Federa
 
 **Thanks for visiting! Feel free to explore my repositories** 🚀
 
-*Building the future, one commit at a time*
+*Securing systems and building the future, one commit at a time* 🔐
 
 </div>
