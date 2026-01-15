@@ -26,8 +26,9 @@ class VictorMonteiro:
         
     def current_focus(self):
         return [
+            "Security BlueTeam and DevSecOps"
             "Building AI-powered analytics systems",
-            "Financial data processing & BI dashboards",
+            "Financial data processing",
             "Database optimization & ETL pipelines"
         ]
     
