@@ -139,7 +139,7 @@ Currently pursuing my degree in **Information Systems** at **Universidade Federa
 
 </div>
 
-- 🎓 **Google Cybersecurity Certificate** *(in progress)*
+- 🎓 **Google Cybersecurity Certificate**
 - 🏅 **Fortinet Certified Fundamentals (FCF)**
 - 📘 **Blue Team & SOC** — continuous studies via TryHackMe
 
