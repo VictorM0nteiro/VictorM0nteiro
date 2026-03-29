@@ -91,7 +91,7 @@ Currently pursuing **Information Systems** at **Universidade Federal de Uberlân
 ## 💼 Experience Overview
 
 ### 🔧 Backend Developer *(Current)*
-Developing and maintaining automation processes using **Python, Go, Ruby, C# and Pentaho (Kettle)**. Building, consuming and documenting **REST APIs**. Working with **Docker**, Linux environments, SQL queries, Power BI integrations and early-stage messaging systems like **RabbitMQ and Kafka**.
+Developing and maintaining automation processes using **Python, Go and Pentaho (Kettle)**. Building, consuming and documenting **REST APIs**. Working with **Docker**, Linux environments, SQL queries, Power BI integrations and early-stage messaging systems like **RabbitMQ and Kafka**.
 
 ### 📊 Data & AI Analyst *(Previous)*
 Worked on **AI and Machine Learning** projects including data collection, preprocessing and analysis. Implemented supervised and unsupervised models, built **intelligent agents with n8n**, and ran **ETL pipelines** using Python, SQL, IBM Cognos and IBM DataStage.
