@@ -17,33 +17,58 @@
 
 ## 🧑‍💻 About Me
 
-```python
-class VictorMonteiro:
-    def __init__(self):
-        self.education  = "Information Systems @ UFU"
-        self.location   = "Uberlândia, MG 🇧🇷"
-        self.roles      = ["Backend Developer", "Data Analyst", "Security Enthusiast"]
+```go
+package main
 
-    def current_work(self):
-        return [
-            "Backend automation with Python, Go, Ruby and C#",
-            "REST API design, development and documentation",
-            "ETL pipelines & data integration (Pentaho/Kettle)",
-            "SQL queries, Power BI reports and data analysis",
-            "Docker environments and Linux deployments",
-            "Messaging systems: RabbitMQ & Kafka (early stages)",
-        ]
+import "fmt"
 
-    def security_interests(self):
-        return [
-            "Blue Team / SOC operations",
-            "DevSecOps practices",
-            "Detection engineering & log analysis",
-            "Secure development lifecycle",
-        ]
+type VictorMonteiro struct {
+	Role      string
+	Company   string
+	Education string
+	Location  string
+	Focus     []string
+}
 
-    def fun_fact(self):
-        return "I automate what can be automated and analyze what can be understood ✨"
+func New() *VictorMonteiro {
+	return &VictorMonteiro{
+		Role:      "Backend Software Engineer",
+		Company:   "Grupo FGF",
+		Education: "Information Systems @ UFU",
+		Location:  "Uberlândia, MG 🇧🇷",
+		Focus:     []string{"Golang", "Distributed Systems", "Data Engineering", "Security"},
+	}
+}
+
+func (v *VictorMonteiro) CurrentWork() []string {
+	return []string{
+		"Migrating a legacy Pentaho ETL & backend ecosystem to Golang (up to 28x faster)",
+		"Concurrency with goroutines, worker pools and RabbitMQ producer/consumer",
+		"REST API design, development and documentation",
+		"Query optimization on MySQL & PostgreSQL (in-memory hash joins over row-by-row lookups)",
+		"Hexagonal architecture, error monitoring and safe reprocessing",
+		"Docker environments and Linux deployments",
+	}
+}
+
+func (v *VictorMonteiro) SideProjects() map[string]string {
+	return map[string]string{
+		"wallet-go": "Digital wallet in Go: append-only ledger, double-entry bookkeeping, deadlock-free concurrent transfers",
+	}
+}
+
+func (v *VictorMonteiro) SecurityInterests() []string {
+	return []string{
+		"Blue Team / SOC operations",
+		"DevSecOps practices",
+		"Detection engineering & log analysis",
+		"Secure development lifecycle",
+	}
+}
+
+func (v *VictorMonteiro) FunFact() string {
+	return "I automate what can be automated and measure what can be improved ✨"
+}
 ```
 
 Currently pursuing **Information Systems** at **Universidade Federal de Uberlândia (UFU)** while working as a backend developer. My background spans data engineering and AI projects, and I'm steadily deepening my knowledge in security — having completed both the **Blue Team** and **DevSecOps** paths on TryHackMe.
