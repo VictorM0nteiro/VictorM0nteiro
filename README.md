@@ -102,13 +102,8 @@ Google Cybersecurity Certificate · Fortinet FCF · Cisco Cyberthreat Management
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorM0nteiro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" alt="GitHub Stats" />
-  &nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorM0nteiro&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=VictorM0nteiro&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
+	<img src="https://streak-stats.demolab.com/?user=VictorM0nteiro&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
 </div>
 
 ---
